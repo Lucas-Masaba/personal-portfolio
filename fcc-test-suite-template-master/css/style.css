@@ -1,0 +1,11 @@
+@-ms-viewport {
+    height: auto;
+}
+
+#welcome-section {
+    height: 100vh;
+}
+
+nav {
+    position: fixed;
+}
